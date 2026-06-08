@@ -1,0 +1,6 @@
+Customer_ID,Frequency,Monetary,Segment
+C001,2,3000,VIP Customer
+C002,1,2500,Regular
+C003,1,3000,VIP Customer
+C004,1,1500,At-Risk
+C005,1,4000,VIP Customer
