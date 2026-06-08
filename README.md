@@ -1,55 +1,66 @@
-# NexusCart: End-to-End Retail Data Pipeline
+# NexusCart: End-to-End Retail Data Analytics Project
 
 ## Project Overview
 
-NexusCart is an end-to-end retail analytics project that demonstrates how raw sales data can be transformed into meaningful business insights using Excel, MySQL, Python, and Power BI.
+NexusCart is an end-to-end retail analytics project that demonstrates how raw sales data can be transformed into meaningful business insights using Excel, SQL, Python, and data visualization techniques.
 
-The project focuses on data cleaning, database management, customer segmentation, and business intelligence reporting.
+The project focuses on data cleaning, exploratory analysis, customer segmentation, sales performance tracking, and business intelligence reporting.
+
+---
 
 ## Tools & Technologies
 
-* Excel
+* Advanced Excel
 * MySQL
-* Python (Pandas)
-* Power BI
+* Python (Pandas, Matplotlib)
+* Data Visualization
 * Git & GitHub
+
+---
 
 ## Project Workflow
 
-### 1. Excel Data Validation
+### 1. Excel Data Analysis
 
-* Checked missing values and data quality issues
-* Performed initial data verification
-* Created summary analysis using Pivot Tables
+* Validated and cleaned retail sales data
+* Performed data quality checks
+* Created Pivot Tables for sales analysis
+* Generated charts for revenue and customer insights
+* Used XLOOKUP for data mapping and validation
 
-### 2. SQL Database Analysis
+### 2. SQL Data Analysis
 
-* Created relational database tables
-* Inserted and managed retail sales data
-* Used JOIN, GROUP BY, and ORDER BY queries
-* Performed product and regional revenue analysis
+* Created database tables for retail sales data
+* Performed data querying and aggregation
+* Used GROUP BY, ORDER BY, and analytical SQL queries
+* Generated product-wise and customer-wise revenue insights
 
-### 3. Python Customer Segmentation
+### 3. Python Analytics
 
-* Loaded sales data using Pandas
-* Calculated Frequency and Monetary metrics
-* Segmented customers into:
+* Loaded and analyzed sales data using Pandas
+* Performed customer segmentation analysis
+* Generated revenue visualizations using Matplotlib
+* Identified top-performing customers and products
 
-  * VIP Customer
-  * Regular Customer
-  * At-Risk Customer
+### 4. Business Insights & Reporting
 
-### 4. Business Insights
+* Product Revenue Analysis
+* Customer Revenue Analysis
+* Sales Trend Analysis
+* Top 10 Customer Analysis
+* Customer Segmentation (VIP and At-Risk Customers)
 
-* Identified top-performing products
-* Analyzed regional sales performance
-* Classified customers for targeted marketing campaigns
+---
 
 ## Key Findings
 
-* Product P002 generated the highest revenue.
-* West region recorded the highest sales.
-* VIP customers contributed significantly to total revenue.
+* Product P002 generated the highest revenue among all products.
+* Customer C013 was the highest revenue-generating customer.
+* Sales trend analysis helped identify peak sales periods.
+* Customer segmentation classified customers into VIP and At-Risk groups.
+* Top 10 customer analysis highlighted the most valuable customers for business growth.
+
+---
 
 ## Project Structure
 
@@ -67,13 +78,22 @@ NexusCart_Project
 
 └── Documentation
 
+---
+
 ## Future Enhancements
 
 * Advanced RFM Analysis
 * Customer Churn Prediction
 * Interactive Power BI Dashboard
 * Automated Data Pipeline
+* Real-Time Sales Monitoring Dashboard
+
+---
 
 ## Author
 
-Ekta parmar
+Ekta Parmar
+
+B.Sc. Computer Science
+
+Data Analytics Enthusiast

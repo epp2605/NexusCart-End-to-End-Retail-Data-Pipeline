@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("Dataset/retail_sales.csv")
+df = pd.read_csv("Dataset/NexusCart_100_Rows_Dataset.csv")
 
 rfm = df.groupby("Customer_ID").agg({
     "Transaction_ID":"count",

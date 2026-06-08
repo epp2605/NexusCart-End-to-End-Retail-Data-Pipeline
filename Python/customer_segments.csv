@@ -1,6 +1,26 @@
 Customer_ID,Frequency,Monetary,Segment
-C001,2,3000,VIP Customer
-C002,1,2500,Regular
-C003,1,3000,VIP Customer
-C004,1,1500,At-Risk
-C005,1,4000,VIP Customer
+C001,2,4093,VIP Customer
+C002,7,15547,VIP Customer
+C003,5,16549,VIP Customer
+C004,3,5914,VIP Customer
+C005,5,6939,VIP Customer
+C006,8,15585,VIP Customer
+C007,1,1529,At-Risk
+C008,5,11180,VIP Customer
+C009,3,7141,VIP Customer
+C010,1,1503,At-Risk
+C011,5,11485,VIP Customer
+C012,1,1346,At-Risk
+C013,8,18859,VIP Customer
+C014,3,5875,VIP Customer
+C015,2,4040,VIP Customer
+C016,4,9669,VIP Customer
+C017,2,6434,VIP Customer
+C018,5,11922,VIP Customer
+C019,2,4476,VIP Customer
+C020,4,9224,VIP Customer
+C021,5,12024,VIP Customer
+C022,4,11697,VIP Customer
+C023,7,15766,VIP Customer
+C024,3,8672,VIP Customer
+C025,5,13797,VIP Customer
